@@ -7,7 +7,7 @@ Smooth animations, overlay click-close, and a minimal UI make this ideal for for
 
 ## 🚀 Live Demo
 
-🔗 **Live Link:** []()
+🔗 **Live Link:** [https://dileep-kumawat.github.io/Custom-Dropdown-Menu-using-html-css-and-js/](https://dileep-kumawat.github.io/Custom-Dropdown-Menu-using-html-css-and-js/)
 
 ---
 
@@ -79,7 +79,7 @@ Your dropdown uses a clean wrapper containing:
 Clone the project:
 
 ```bash
-git clone 
+git clone https://github.com/Dileep-kumawat/Custom-Dropdown-Menu-using-html-css-and-js.git
 ```
 
 Open the project:
